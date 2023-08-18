@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "title": "bbb",
+      "body": "bbbb",
+      "publish": true,
+      "createdAt": 1692148919335,
+      "id": 3
+    },
+    {
+      "title": "ㅁㄴㅁㅇㄴㅇ",
+      "body": "ㅁㄴㅇㅁㄴ",
+      "publish": false,
+      "createdAt": 1692322419626,
+      "id": 40
+    },
+    {
+      "title": "ㅇㅇㅇ",
+      "body": "ㅇㅇㅇㅇ",
+      "publish": false,
+      "createdAt": 1692327535514,
+      "id": 41
+    }
+  ]
+}
